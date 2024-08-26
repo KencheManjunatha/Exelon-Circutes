@@ -1,1 +1,7 @@
-
+{
+    "name": "New York",
+    "population": 8419000,
+    "country": "USA",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+}
